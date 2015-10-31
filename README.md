@@ -1,2 +1,2 @@
 # vimrc
-my vimrc 2015/10/31
+my vimrc in 2015/10/31
